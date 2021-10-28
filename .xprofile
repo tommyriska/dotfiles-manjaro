@@ -1,0 +1,9 @@
+# Stop screen from going blank
+xset s off
+xset -dpms
+xset s noblank
+# Faster key repeat and delay
+xset r rate 210 40
+xrandr --newmode "2560x1440_165.00"  941.49  2560 2792 3080 3600  1440 1441 1444 1585  -HSync +Vsync
+xrandr --addmode Virtual-1 2560x1440_165.00
+xrandr --output Virtual-1 --mode 2560x1440_165.00
