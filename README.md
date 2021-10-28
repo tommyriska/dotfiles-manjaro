@@ -1,13 +1,13 @@
 # Dotfiles
 
-OS: Manjaro
-Terminal: Default Manjaro terminal
-Shell: Zsh w/Oh-my-zsh & Antigen plugin manager
-Editor: nvim
-DE: XFCE 4.16
-WM: Xfwm4
-Window Manager: XFCE
-Terminal font: Monospace 12
+- OS: Manjaro
+- Terminal: Default Manjaro terminal
+- Shell: Zsh w/Oh-my-zsh & Antigen plugin manager
+- Editor: nvim
+- DE: XFCE 4.16
+- WM: Xfwm4
+- Window Manager: XFCE
+- Terminal font: Monospace 12
 
 ## Zsh / Oh-My-Zsh
 
